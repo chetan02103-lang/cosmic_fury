@@ -1,3 +1,20 @@
+## 🌐 Play the Game
+
+https://cosmic-fury.vercel.app
+
+## 👨‍💻 Developer
+
+**Chetan H A**
+
+GitHub: [@chetan02103-lang](https://github.com/chetan02103-lang)
+
+---
+
+*Built with creativity, code, and a passion for gaming.*
+Project live link.
+
+https://cosmic-fury.vercel.app
+
 # 🚀 COSMIC FURY
 
 **An action-packed space survival game featuring intense combat, powerful bosses, upgrades, and endless challenges.**
@@ -24,19 +41,4 @@ COSMIC FURY is a browser-based space action game where players battle enemies, s
 - CSS
 
 
-## 🌐 Play the Game
 
-https://cosmic-fury.vercel.app
-
-## 👨‍💻 Developer
-
-**Chetan H A**
-
-GitHub: [@chetan02103-lang](https://github.com/chetan02103-lang)
-
----
-
-*Built with creativity, code, and a passion for gaming.*
-Project live link.
-
-https://simple-game-builder--chetan02103.replit.app/
